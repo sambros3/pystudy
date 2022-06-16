@@ -15,8 +15,6 @@ class FourCal:
         result = self.first / self.second
         return result
 
-
-
 a= FourCal()
 a.setdata(4,5)
 print(a.add())

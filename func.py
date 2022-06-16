@@ -51,7 +51,7 @@ def say_myself(name, old, man=True):
     else:
         print("여자입니다.")
 
-say_myself("ted kim",30)
+say_myself("sam kim",30)
 
 
 # vartest.py
