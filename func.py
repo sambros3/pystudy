@@ -12,7 +12,7 @@ print(a)
 # def 함수이름(*매개변수):
 #     <수행할 문장>
 #     ...
-
+®
 def add_many(*args):
     result = 0
     for i in args:

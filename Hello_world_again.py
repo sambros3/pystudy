@@ -55,6 +55,10 @@ i = 0
 
 del b[3]
 
+print("#"*20)
+print(d.__getitem__(2))
+
+
 while i < len(b):
     print(b[i])
     i = i + 1
